@@ -9,8 +9,8 @@
             "product_type":["mini","normal"],
             "product_price":[170000,200000],
             "product_image":["../images/menu/1/11.png",
-			   "../images/menu/1/112.png",
-			   "../images/menu/1/113.png"],
+			   "../images/menu/1/12.png",
+			   "../images/menu/1/13.png"],
             "product_content":["آووکادو","میگو تمپورا","خیار","توبیک"],
 	    "product_energy":37,
             "product_protein":61
@@ -20,8 +20,8 @@
             "product_type":["mini","normal"],
             "product_price":[200000,230000],
             "product_image":["../images/menu/1/12.png",
-			   "../images/menu/1/122.png",
-			   "../images/menu/1/123.png"],
+			   "../images/menu/1/13.png",
+			   "../images/menu/1/14.png"],
             "product_content":["ماهی قزل آلا","آووکادو","پنیر خامه ای"],
 	    "product_energy":65,
             "product_protein":73
@@ -31,7 +31,7 @@
             "product_type":["mini","normal"],
             "product_price":[140000,170000],
             "product_image":["../images/menu/1/13.png",
-			   "../images/menu/1/132.png"],
+			   "../images/menu/1/14.png"],
             "product_content":["تن ماهی تند","جلبک دریایی ترد","تمپورا"],
 	    "product_energy":54,
             "product_protein":71
@@ -41,9 +41,9 @@
             "product_type":["mini","normal"],
             "product_price":[160000,190000],
             "product_image":["../images/menu/1/14.png",
-			   "../images/menu/1/142.png",
-			   "../images/menu/1/143.png",
-			   "../images/menu/1/144.png"],
+			   "../images/menu/1/13.png",
+			   "../images/menu/1/12.png",
+			   "../images/menu/1/11.png"],
             "product_content":["ماهی تن","مایونز","سس چیلی"],
 	    "product_energy":41,
             "product_protein":80
