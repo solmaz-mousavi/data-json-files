@@ -319,6 +319,15 @@
             "product_content":["پنیر گودا","گوجه گیلاسی","قارچ","فیله مرغ","خمیر ایتالیایی"],
 	    "product_energy":40,
             "product_protein":75
+            },
+	    {"product_id":67,
+            "product_name":"پیتزا شخصی",
+            "product_type":["normal"],
+            "product_price":[0],
+            "product_image":["../images/pizza-items/Pizza-Dough.png"],
+            "product_content":["خمیر ایتالیایی", "موارد سفارشی"],
+	    "product_energy":0,
+            "product_protein":0
             }
             ]    
         }
