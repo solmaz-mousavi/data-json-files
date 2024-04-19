@@ -2,7 +2,7 @@
     "items": [{
             "id": "tomato",
             "name": "گوجه فرنگی",
-            "image": "../images/pizza-items/tomato.webp",
+            "image": "../images/pizza-items/tomato.png",
             "price": 2000,
             "calorie": 10,
             "qty": 5
